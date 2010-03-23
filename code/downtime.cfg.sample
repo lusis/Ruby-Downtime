@@ -1,0 +1,4 @@
+--- 
+host_schedule_file: ./host_schedule.cfg
+service_schedule_file: ./svc_schedule.cfg
+nagios_cmd_file: ./nagios.cmd
